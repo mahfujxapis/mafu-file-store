@@ -15,8 +15,8 @@ from threading import Thread
 BOT_TOKEN = '8463540437:AAEqlG1P8RRmhJY9LVYYwugCFHF--R_BojI'  # Replace with your bot token
 
 # Multiple Admin IDs can be added here
-ADMIN_IDS = [6448344664, 8254637769]  # Add more admin IDs separated by commas
-SUPER_ADMIN_IDS = [6448344664, 8254637769]  # Super admins who can manage other admins
+ADMIN_IDS = [6448344664, 6448344664]  # Add more admin IDs separated by commas
+SUPER_ADMIN_IDS = [6448344664, 6448344664]  # Super admins who can manage other admins
 
 LOG_GROUP_ID = -1003896491972  # Replace with your log group ID (must be a supergroup)
 
